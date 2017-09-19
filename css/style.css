@@ -1,0 +1,77 @@
+body {
+	font-size: 100%;
+	font-family: 'Josefin Sans', sans-serif;
+	letter-spacing: 0.20em;	
+	background-color: white;}
+#page {
+	max-width: 940px;
+	min-width: 720px;
+	margin: 10px auto 10px auto;
+	padding: 20px;
+	background-color: white;}
+
+p {
+	text-align: center;
+	width: 600px; 
+	margin: 20px auto 20px auto; 
+	font-weight: normal;
+    color: #3366cc;}
+h1 { 
+	text-align: center;
+    color: #3366cc;}
+a {
+	color: #3366cc;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 6px 18px 5px 18px;}
+    a:hover, a.on {
+	color: #3366cc;
+	background-color: #ffffff;}
+
+.image {
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,.1);
+  height: 100px;
+  overflow: hidden;
+  margin: 15px auto;
+  position: relative;
+  width: 100px;
+}
+
+
+td {
+	border: 2px solid #3366cc;
+	padding: 20px;
+	margin: 0 auto;
+}
+
+#table {
+text-align: center;
+}
+
+#table {
+margin: 0 auto;
+text-align: left;
+}
+
+input.Button {
+width: 300px;
+padding: 20px;
+cursor: pointer;
+font-weight: bold;
+font-size: 100%;
+background: #3366cc;
+color: #fff;
+border: 1px solid #3366cc;
+border-radius: 10px;
+}
+input.Button:hover {
+color: #3366cc;
+background: #000;
+border: 1px solid #3366cc;
+}
+
+/* mi html y el css es muy basico como la pag, lo que esta arriba fue lo que use para hacer los botones con los links */
+
+
+
+
